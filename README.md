@@ -1,5 +1,5 @@
 # Do it
-## What can i do:
+## Which I am able to work:
 
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&color=5b5b5b)
 ![JavaScript](https://img.shields.io/badge/JavaScript-blue?style=for-the-badge&logo=JavaScript&color=5b5b5b)
@@ -13,7 +13,7 @@
 ## FrameWorks:
 ### AI:
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-blue?style=for-the-badge&logo=TensorFlow&logoColor=000000&color=ffffff)
-![Scikit-learn](https://img.shields.io/badge/Kivy-blue?style=for-the-badge&logo=Scikit-learn&logoColor=000000&color=ffffff)
+![Scikit-learn](https://img.shields.io/badge/ScikitLearn-blue?style=for-the-badge&logo=Scikit-learn&logoColor=000000&color=ffffff)
 ![PyTorch](https://img.shields.io/badge/PyTorch-blue?style=for-the-badge&logo=PyTorch&logoColor=000000&color=ffffff)
 ![Numpy](https://img.shields.io/badge/Numpy-blue?style=for-the-badge&logo=Numpy&logoColor=000000&color=ffffff)
 ![Pandas](https://img.shields.io/badge/Pandas-blue?style=for-the-badge&logo=Pandas&logoColor=000000&color=ffffff)
