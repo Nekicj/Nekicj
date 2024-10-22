@@ -8,7 +8,7 @@
 [![My Skills](https://skillicons.dev/icons?i=bots,discordjs,django,fastapi,flask,qt)](https://skillicons.dev)
 
 #### Tools:
-[![My Skills](https://skillicons.dev/icons?i=kali,bash,docker,git,github,nginx)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,docker,git,github,nginx)](https://skillicons.dev)
 
 <details>
   <summary>Python</summary>  
