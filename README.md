@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">Simple fullstack-developer from Kazakhstan</h3>
 
-#### Which I am able to work:
+#### Which positions I am able to work in:
 [![My Skills](https://skillicons.dev/icons?i=python,js,html,css,blender,azure,cs,postgres,unity)](https://skillicons.dev)
 
 #### Frameworks and libraries:
