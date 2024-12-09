@@ -5,7 +5,7 @@
 [![My Skills](https://skillicons.dev/icons?i=python,js,html,css,blender,azure,cs,postgres,unity)](https://skillicons.dev)
 
 #### Frameworks and libraries:
-[![My Skills](https://skillicons.dev/icons?i=bots,discordjs,django,fastapi,flask,qt)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bots,discordjs,django,fastapi,flask,qt,nodejs)](https://skillicons.dev)
 
 #### Tools:
 [![My Skills](https://skillicons.dev/icons?i=bash,docker,git,github,nginx)](https://skillicons.dev)
