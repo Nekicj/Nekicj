@@ -2,13 +2,16 @@
 <h3 align="center">Simple fullstack-developer from Kazakhstan</h3>
 
 #### Which positions I am able to work in:
-[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,blender,azure,cs,postgres,unity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,java,cs,blender,azure,html,css,postgres,unity)](https://skillicons.dev)
 
 #### Frameworks and libraries:
-[![My Skills](https://skillicons.dev/icons?i=bots,discordjs,django,fastapi,flask,qt,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bots,discordjs,django,fastapi,flask,qt,nodejs,flutter)](https://skillicons.dev)
 
 #### DevOps:
 [![My Skills](https://skillicons.dev/icons?i=bash,docker,git,github,nginx)](https://skillicons.dev)
+
+#### Other:
+[![My Skills](https://skillicons.dev/icons?i=linux,notion,obsidian,replit,vim)](https://skillicons.dev)
 
 <details>
   <summary>Python</summary>  
