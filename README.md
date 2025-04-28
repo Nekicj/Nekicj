@@ -8,10 +8,10 @@
 [![My Skills](https://skillicons.dev/icons?i=bots,discordjs,django,fastapi,flask,qt,nodejs,flutter)](https://skillicons.dev)
 
 #### DevOps:
-[![My Skills](https://skillicons.dev/icons?i=bash,docker,git,github,nginx)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,git,github)](https://skillicons.dev)
 
 #### Other:
-[![My Skills](https://skillicons.dev/icons?i=linux,notion,obsidian,replit,vim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,notion,obsidian,replit,vim,nginx,bash)](https://skillicons.dev)
 
 <details>
   <summary>Python</summary>  
